@@ -40,3 +40,5 @@ $ python cjk_spacing.py *.md
 
 1. `**中文**` 会变成 `** 中文 **`
 2. `-10` 会变成 `- 10`
+
+study github 
